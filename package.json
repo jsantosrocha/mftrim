@@ -3,7 +3,7 @@
   "displayName": "MF Trim",
   "description": "Trim lines to max 80 bytes from column 81 onward",
   "version": "0.0.1",
-  "publisher": "https://github.com/jsantosrocha",
+  "publisher": "JoseCarlosSantosRocha",
   "engines": {
     "vscode": "^1.50.0"
   },
